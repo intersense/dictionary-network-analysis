@@ -16,3 +16,5 @@
 <img src='https://github.com/intersense/dictionary-network-analysis/blob/main/images/%E5%9B%BE3.jpg' width='300px'/>
 
 <img src='https://github.com/intersense/dictionary-network-analysis/blob/main/images/%E5%9B%BE4.jpg' width='300px'/>
+
+## OPTED 
