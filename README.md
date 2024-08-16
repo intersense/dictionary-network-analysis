@@ -21,3 +21,10 @@
 
 ## OPTED 
 The largest SCC of OPTED: {'popovtsy', 'dukhobors', 'dukhobortsy', 'judaizers', 'bezpopovtsy', 'molokane', 'skoptsy', 'raskolnik', 'molokany', 'raskolniki'}
+
+
+## References
+[1] 张光伟, “西夏文字典《文海》的网络分析,” 数字人文, no. 1, pp. 14–27, 2022.
+[2] 张光伟, “基于网络分析与《文海》提取的西夏文基本字集,” 西夏学, no. 2, pp. 161–174, 2022.
+[3] 张光伟, “基于深度学习的西夏文献数字化,” 西夏学, no. 02, pp. 206–213, 2020.
+[4] G. Zhang and X. Han, “Deep learning based tangut character recognition,” in 2017 4th International Conference on Systems and Informatics (ICSAI), Nov. 2017, pp. 437–441. doi: 10.1109/ICSAI.2017.8248332.
