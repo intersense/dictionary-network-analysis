@@ -17,6 +17,8 @@
 
 <img src='https://github.com/intersense/dictionary-network-analysis/blob/main/images/%E5%9B%BE4.jpg' width='300px'/>
 
+注意：Jupyter Notebook中可能会因为没有安装西夏文字体而导致部分文本无法显示，但由于csv文件中已经删除西夏字，且代码也进行了调整，因此运行过程应该不会有问题。
+
 ## OPTED 
 The largest SCC of OPTED: {'popovtsy', 'dukhobors', 'dukhobortsy', 'judaizers', 'bezpopovtsy', 'molokane', 'skoptsy', 'raskolnik', 'molokany', 'raskolniki'}
 
